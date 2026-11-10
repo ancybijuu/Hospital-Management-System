@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Hospital Management System
 
@@ -69,3 +70,7 @@ Hospital-Management-System/
 ## Author
 
 Created as a MySQL database management project.
+=======
+# Hospital-Management-System
+A MySQL-based Hospital Management System with database design, ER diagram, SQL queries and relational tables.
+>>>>>>> a147ead435bb93f847b2e1423afce4736a40e620
