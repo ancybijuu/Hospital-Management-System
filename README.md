@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 # Hospital Management System
 
